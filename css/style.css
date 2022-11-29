@@ -475,6 +475,10 @@ ul.costomer li a {
      padding: 5px 0;
 }
 
+.weare-box:hover {
+     cursor: pointer;
+}
+
 .weare .weare-img_box figure {
      margin: 0;
 }
